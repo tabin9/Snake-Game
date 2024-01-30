@@ -205,3 +205,5 @@ function updateHighScore() {
     }
     highScoreText.style.display = 'block';
 }
+
+// Was fun!
