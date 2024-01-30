@@ -17,6 +17,7 @@ What new concepts I learnt in this project? Challenges I faced:
 5. The most challenging of all was to keep track of the corner cases, keeping track of all the created
    functions and the coordinates of the grid.
 
+[Try Snake Game](https://tabin9.github.io/Snake-Game/)
 
 A great start to my journey with this project.
 
